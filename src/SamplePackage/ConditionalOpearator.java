@@ -7,6 +7,7 @@ public class ConditionalOpearator {
 		
 		boolean b = 10>9?true:false;
 		System.out.println(b);
+		System.out.println("Dummy Changes");
 
 	}
 
